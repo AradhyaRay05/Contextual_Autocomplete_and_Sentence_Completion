@@ -1,0 +1,11 @@
+# Ignore document files
+*.pdf
+
+# Ignore Python and Jupyter environment artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore model weight checkpoints
+*.keras
+*.tflite
